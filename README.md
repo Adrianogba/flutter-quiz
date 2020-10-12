@@ -10,3 +10,9 @@ Simples Quiz desenvolvido em Flutter consumindo lista de perguntas vindas do Fir
 * [Android Studio](https://developer.android.com/studio/) - v4.0.1 - IDE
 
 ### Prints
+
+![Alt text](prints/print_01.png?raw=true)
+<br>
+![Alt text](prints/print_02.png?raw=true)
+<br>
+![Alt text](prints/print_03.png?raw=true)
