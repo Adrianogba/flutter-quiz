@@ -5,6 +5,7 @@ import 'screens/quiz_screen.dart';
 
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(App());
 }
 
@@ -85,7 +86,7 @@ class FatalInitialErrorPage extends StatelessWidget {
       ),
       home: Scaffold(
         body: Center(
-          child: Text('Falha na inicialização. Tente reinstalar o App ou verificar as permissões Javascript em seu navegador.'),
+          child: Text('Falha na inicialização. Tente reinstalar o App ou verificar as permissões Javascript em seu navegador.', textAlign: TextAlign.center),
         ),
       ),
     );

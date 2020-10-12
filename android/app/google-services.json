@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1063784428999:android:fe2aa243035f62058bd5e2",
+        "mobilesdk_app_id": "1:1063784428999:android:6e017ffbb044797f8bd5e2",
         "android_client_info": {
-          "package_name": "io.github.adrianogba.flutterquiz"
+          "package_name": "io.github.adrianogba.flutter_quiz"
         }
       },
       "oauth_client": [
