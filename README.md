@@ -4,6 +4,8 @@
 
 Simples Quiz desenvolvido em Flutter consumindo lista de perguntas vindas do Firebase Firestore
 
+Versão web: https://flutter-quiz.codemagic.app/
+
 ### Especificações
 
 * [Flutter](https://flutter.io/) - v1.21 - Framework Mobile
